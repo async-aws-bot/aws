@@ -2,6 +2,10 @@
 
 ## NOT RELEASED
 
+### Added
+
+- AWS api-change: EC2 allows AMI owners to define compatible instance types on their AMIs, blocking RunInstances calls automatically for launches on non-permitted instance types.
+
 ## 1.2.0
 
 ### Added
