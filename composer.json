@@ -51,6 +51,7 @@
         "psr-4": {
             "AsyncAws\\AppSync\\": "src/Service/AppSync/src",
             "AsyncAws\\Athena\\": "src/Service/Athena/src",
+            "AsyncAws\\BedrockAgentCore\\": "src/Service/BedrockAgentCore/src",
             "AsyncAws\\BedrockAgent\\": "src/Service/BedrockAgent/src",
             "AsyncAws\\BedrockRuntime\\": "src/Service/BedrockRuntime/src",
             "AsyncAws\\CloudFormation\\": "src/Service/CloudFormation/src",
@@ -109,6 +110,7 @@
         "psr-4": {
             "AsyncAws\\AppSync\\Tests\\": "src/Service/AppSync/tests",
             "AsyncAws\\Athena\\Tests\\": "src/Service/Athena/tests",
+            "AsyncAws\\BedrockAgentCore\\Tests\\": "src/Service/BedrockAgentCore/tests",
             "AsyncAws\\BedrockAgent\\Tests\\": "src/Service/BedrockAgent/tests",
             "AsyncAws\\BedrockRuntime\\Tests\\": "src/Service/BedrockRuntime/tests",
             "AsyncAws\\CloudFormation\\Tests\\": "src/Service/CloudFormation/tests",
