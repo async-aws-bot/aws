@@ -2,6 +2,8 @@
 
 ## NOT RELEASED
 
+## 1.3.0
+
 ### Added
 
 - Added `SessionHandler::create_sid()` and `SessionHandler::validateId()`, required by `SessionHandlerInterface` in PHP 9.0
